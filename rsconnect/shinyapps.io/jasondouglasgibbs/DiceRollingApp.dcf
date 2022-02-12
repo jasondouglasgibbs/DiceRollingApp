@@ -5,9 +5,9 @@ account: jasondouglasgibbs
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5584853
-bundleId: 5557875
+bundleId: 5572272
 url: https://jasondouglasgibbs.shinyapps.io/DiceRollingApp/
-when: 1644345297.10215
-lastSyncTime: 1644345297.10215
+when: 1644678121.86941
+lastSyncTime: 1644678121.86941
 asMultiple: FALSE
 asStatic: FALSE
